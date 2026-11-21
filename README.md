@@ -1,71 +1,31 @@
 # AdriFlux
 
-### Adaptive Cognitive Systems & AI Prototyping
+# Experimental Software & Applied AI
 
-Experimental AI systems focused on cognitive interfaces, computer vision, adaptive learning and human-centered interaction.
-
----
-
-## About
-
-AdriFlux is an independent experimental lab exploring adaptive cognitive systems, AI-assisted interaction and vision-based interfaces.
-
-Current focus areas include:
-
-- Cognitive interfaces
-- Vision-based interaction
-- MediaPipe & affective computing
-- AI-assisted educational tools
-- Adaptive learning systems
-- Human-centered AI workflows
+Independent lab for experimental software, applied artificial intelligence and interactive prototyping.
 
 ---
 
-## Current Projects
+# About
 
-### Xeromorphy Emotions
-Experimental MediaPipe-based emotional and behavioral analysis platform focused on facial dynamics and structured observational tasks.
+AdriFlux is a personal space for exploring ideas at the intersection of software engineering, artificial intelligence and human-computer interaction. Work here is exploratory and prototype-driven: small experiments, technical studies and tools built to test ideas.
 
-### AdaptiveCanvas
-AI-assisted educational interaction and cognitive gamification concepts for modern learning environments.
+# Areas of Interest
 
----
+- Applied machine learning
+- Computer vision
+- Human-computer interaction
+- Adaptive and intelligent software systems
+- Interactive prototyping
+- Software architecture and reproducible engineering
 
-## Areas of Interest
+# Principles
 
-- Artificial Intelligence
-- Human-AI Interaction
-- Computer Vision
-- Adaptive Systems
-- Educational Technology
-- Cognitive Interfaces
-- Interactive Prototyping
+- Human-centered design
+- Privacy by design
+- Reproducibility and testability
+- Responsible and transparent use of AI
 
----
+# Tech
 
-## Tech Stack
-
-- Python
-- MediaPipe
-- OpenCV
-- TensorFlow
-- JavaScript
-- HTML/CSS
-- GitHub
-- AI-assisted workflows
-
----
-
-## Experimental Philosophy
-
-- Human-centered AI design
-- Cognitive augmentation over automation
-- Prototype-driven experimentation
-- Ethical and observational AI systems
-- Open research with selective implementation privacy
-
----
-
-## Philosophy
-
-> Technology should augment cognition, creativity and learning — not replace them.
+Python · JavaScript · Kotlin · Docker
